@@ -1,7 +1,7 @@
 import pywhatkit
 
 try:
-    pywhatkit.sendwhatmsg('+919163198148', 'Happy Birthday', 9, 38)
+    pywhatkit.sendwhatmsg('+91 xxxxx xxxxx', 'Happy Birthday', 9, 38)
     print('Sending message...')
 
 except:
