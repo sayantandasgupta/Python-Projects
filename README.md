@@ -1,6 +1,8 @@
 # Python-Projects
 
-This repo contains some Python projects that I had created in the recent months. These range from very simple to a bit complex, all have been arranged in alphabetical order.
+This repo contains some Python projects that I had created in the recent months. These range from very simple to a bit complex, all have been arranged in alphabetical order. 
+
+Preferred Python Version - 3.7.9
 
 Please feel free to fork and run these projects on your local machine. Enjoy 👍 :smile:
 
