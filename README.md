@@ -6,9 +6,10 @@ Preferred Python Version - 3.7.9
 
 Please feel free to fork and run these projects on your local machine. Enjoy 👍 :smile:
 
-- [Analog Clock in Python](https://github.com/Arka2001/Python-Projects/blob/main/Analog_Clock.py)
-- [Automate WhatsApp using Python](https://github.com/Arka2001/Python-Projects/blob/main/Automate_WhatsApp.py)
-- [Cartoon Filter Effect using OpenCV in Python](https://github.com/Arka2001/Python-Projects/blob/main/Cartoon_Effect_using_OpenCV.ipynb)
-- [Digital Clock in Python](https://github.com/Arka2001/Python-Projects/blob/main/Digital%20Clock%20GUI.py)
+- [Analog Clock in Python](https://github.com/Arka2001/Python-Projects/tree/main/Analog%20Clock%20in%20Python)
+- [Automate WhatsApp using Python](https://github.com/Arka2001/Python-Projects/tree/main/Automate%20Whatsapp%20using%20Python)
+- [Cartoon Filter Effect using OpenCV in Python](https://github.com/Arka2001/Python-Projects/tree/main/Cartoon%20Effect%20using%20Python)
+- [Digital Clock in Python](https://github.com/Arka2001/Python-Projects/tree/main/Digital%20Clock%20GUI%20using%20Python)
 - [Image to ASCII art in Python](https://github.com/Arka2001/Python-Projects/tree/main/Image%20to%20ASCII%20art%20-%20Python)
+- [Rock Paper Scissor game in Python](https://github.com/Arka2001/Python-Projects/tree/main/Rock-Paper-Scissor)
 
